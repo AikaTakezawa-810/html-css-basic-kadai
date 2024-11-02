@@ -46,7 +46,7 @@ main {
     border-bottom: dotted 3px rgb(236,122,122);
 }
 .contents h2::before {
-    content: "œ";
+    content: "â—";
     color: rgb(239,111,139);
 }
 .contents img {
